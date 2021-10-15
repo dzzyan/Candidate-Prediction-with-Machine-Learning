@@ -1,11 +1,6 @@
 ---
-title: "Voter Prediction with Machine Learning (2016)"
-author: "derek"
-date: "9/8/2020"
-output: pdf_document
----
 
-title: "131 Final Project"
+title: "Voter Prediction with Machine Learning (2016)"
 author: "Seth Marceno(8934838), Derek Yan(4377347)"
 date: "12/10/2019"
 output: pdf_document
